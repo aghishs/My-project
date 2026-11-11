@@ -4,7 +4,7 @@ A modern, role-based Library Management & Book Exchange System powered by **Pyth
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Launch with One Click
 Double-click **`run.bat`** in this folder, or open PowerShell/Terminal in this directory and run:
@@ -15,7 +15,7 @@ Then open your browser to **http://localhost:5000**
 
 ---
 
-## 🗄️ MySQL Database Setup & Configuration
+##  MySQL Database Setup & Configuration
 
 ### Default Configuration (`config.py`)
 | Parameter | Default Value | Notes |
@@ -42,7 +42,7 @@ $env:MYSQL_PORT = "3306"
 
 ---
 
-## 👥 Student Data Storage in MySQL
+##  Student Data Storage in MySQL
 
 Student records are stored in the `students` table in MySQL:
 
@@ -59,7 +59,7 @@ Student records are stored in the `students` table in MySQL:
 
 ---
 
-## 🔑 Default Login Credentials
+## Default Login Credentials
 
 ### Administrator
 - **Email:** `admin@college.edu`
